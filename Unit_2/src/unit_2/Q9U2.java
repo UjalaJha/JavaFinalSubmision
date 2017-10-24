@@ -10,5 +10,6 @@ package unit_2;
  * @author prakash
  */
 public class Q9U2 {
+    System.out.println("hello world");
     
 }
